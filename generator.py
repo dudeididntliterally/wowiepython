@@ -1,4 +1,3 @@
-py
 import requests, random, httpx, os, time
 
 global infotoken
